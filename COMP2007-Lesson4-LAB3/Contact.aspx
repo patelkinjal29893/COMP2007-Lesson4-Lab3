@@ -13,14 +13,14 @@
                     <div class="panel-heading">Contact Info</div>
                     <div class="panel-body">
                         <address>
-                            <strong>Tom Tsiliopoulos</strong><br>
-                            1 Toronto Street<br>
-                            Barrie, ON L9L 9L9<br>
+                            <strong>Kinjal Patel</strong><br>
+                            288 Stanley Street<br>
+                            Barrie, ON L4M 6X7<br>
                             <abbr title="Phone">TEL:</abbr>
-                            (705) 555-6666
+                            (705) 123-5555
                         </address>
                     </div>
-                </div>
+                
             </div>
             <div class="col-md-6">
                 <div class="form-group">
